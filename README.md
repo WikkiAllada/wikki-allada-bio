@@ -104,4 +104,4 @@ Personal website for filmmaker Wikki Allada
   </div>
 </body>
 </html>
-![wikki_profile](https://github.com/user-attachments/assets/5f66db59-ab30-4f99-966c-295a5e5568c3)
+![wikki_dp](https://github.com/user-attachments/assets/54b6917f-1dfe-40a6-96cf-07fe9439c049)
